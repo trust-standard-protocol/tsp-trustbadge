@@ -1,0 +1,21 @@
+{
+  "name": "tsp-trustbadge",
+  "version": "0.0.0",
+  "description": "Clean vNext TSP TrustBadge scaffold.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "tsp",
+    "trustbadge",
+    "evidence",
+    "provenance"
+  ],
+  "license": "Apache-2.0"
+}
+
